@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/opencv-%3CCOLOR%3E)
+![](https://img.shields.io/badge/cmake-%3CCOLOR%3E)
 # Camera app with Qt and Opencv with cmake
 
 
