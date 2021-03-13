@@ -24,5 +24,7 @@ To run this, you'll need to install:
     CMAKE
 
 git clone https://github.com/blalyasar/Camera-app-with-Qt-and-Opencv.git
+
 cmake .
+
 make
