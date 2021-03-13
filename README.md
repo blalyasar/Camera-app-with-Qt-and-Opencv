@@ -28,4 +28,7 @@ git clone https://github.com/blalyasar/Camera-app-with-Qt-and-Opencv.git
 cmake .
 
 make
+
+./opencv_example_project # and running... ( cmake dosyasından ismi değiştirilebilir. )
+
 ```
