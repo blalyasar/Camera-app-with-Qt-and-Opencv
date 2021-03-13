@@ -22,9 +22,10 @@ To run this, you'll need to install:
     OpenCV
     Qt
     CMAKE
-
+```
 git clone https://github.com/blalyasar/Camera-app-with-Qt-and-Opencv.git
 
 cmake .
 
 make
+```
